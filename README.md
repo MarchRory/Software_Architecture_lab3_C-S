@@ -1,2 +1,2 @@
-# software_architecture_lab3_B-S
-软件体系结构实验3， B/S架构
+# software_architecture_lab3_C/S
+软件体系结构实验3， C/S架构
